@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "postgres",
+      "password": "2460",
+      "database": "trabalhofullstack_db",
+      "host": "localhost",
+      "dialect": "postgres"
+    }
+}
+  
