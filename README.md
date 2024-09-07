@@ -2,13 +2,6 @@
 
 Este é um projeto de cadastro de pessoas físicas desenvolvido como complemeto da disciplica de desenvolvimento WEB. O sistema é composto por um backend utilizando Node.js, Sequelize e PostgreSQL, e um frontend em HTML, CSS e JavaScript.
 
-## Funcionalidades
-
-- Cadastro de pessoas físicas (nome, CPF, telefone).
-- Atualização de informações de pessoas cadastradas.
-- Consulta e listagem de pessoas cadastradas.
-- Exclusão de pessoas cadastradas.
-
 ## Tecnologias Utilizadas
 
 ### Backend
