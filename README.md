@@ -16,7 +16,6 @@ Este é um projeto de cadastro de pessoas físicas desenvolvido como complemeto 
 - **HTML**: Estrutura da aplicação web.
 - **CSS**: Estilização da aplicação web.
 - **JavaScript**: Interatividade da aplicação web.
-- **Bootstrap/Tailwind (opcional)**: Frameworks CSS para estilização.
 
 ## Pré-requisitos
 
